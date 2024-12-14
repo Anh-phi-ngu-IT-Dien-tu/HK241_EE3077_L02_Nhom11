@@ -91,12 +91,7 @@ class AlexNet_Image_Classification():
     
     def resultTop1(self):
         temp=self.probabilities
-        m=max(temp)
-        for i,j in enumerate(self.probabilities):
-            if float(j) == m:
-                res=i
-                break
-        result=float(self.probabilities[res])
+        result=temp[self.class_id]
         self.Label_prob=result
     
     def resultTop5(self):
