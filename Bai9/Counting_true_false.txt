@@ -1,0 +1,10 @@
+The number of True in Top1 evaluation of Kimono is8
+The number of True in Top5 evaluation of Kimono is17
+The number of True in Top1 evaluation of miniskirt is10
+The number of True in Top5 evaluation of miniskirt is15
+The number of True in Top1 evaluation of missile is7
+The number of True in Top5 evaluation of missile is16
+The number of True in Top1 evaluation of pizza is14
+The number of True in Top5 evaluation of pizza is17
+The number of True in Top1 evaluation of tank is16
+The number of True in Top5 evaluation of tank is20
