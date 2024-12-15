@@ -1,7 +1,7 @@
 # Code của các bài tập thị giác máy
 
 # Bên trong bài 2 có dữ liệu dùng để đánh giá
-
+## Bài 2 thì chỉ cần để ý 2 file Evaluate_Cascade_Matlab.mat và evaluate_cascade_python.py
 
 
 # Bên trong bài 3 có dữ liệu huấn luyên, dữ liệu đánh giá
