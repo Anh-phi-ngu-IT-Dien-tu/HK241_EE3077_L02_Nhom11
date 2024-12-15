@@ -13,3 +13,10 @@
 
 
 # Bên trong bài 9 có dữ liệu đánh giá, kết quả đánh giá (trong các file csv, txt)
+## chạy file hw9.py để chường trình tự động đánh giá mạng alexnet và tự ghi kết quả vào các file
+### Kimono_label_evaluation.csv
+### Miniskirt_label_evaluation.csv
+### Missile_label_evaluation.csv
+### Pizza_label_evaluation.csv
+### Tank_label_evaluation.csv
+
