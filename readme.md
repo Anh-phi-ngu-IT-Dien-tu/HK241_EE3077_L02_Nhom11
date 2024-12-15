@@ -12,4 +12,4 @@
 ## Kết quả đánh giá chính là folder Result
 
 
-# Bên trong bài 9 có dữ liệu huấn luyện, kết quả đánh giá (trong các file csv, txt)
+# Bên trong bài 9 có dữ liệu đánh giá, kết quả đánh giá (trong các file csv, txt)
